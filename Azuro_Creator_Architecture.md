@@ -3,7 +3,7 @@
 
 ![Azuro Creator Full Architecture](architecture.png)
 
-**Azuro Creator** is a conceptual AI framework designed to automate and optimize engineering design processes. It integrates:
+**Azuro Creator** is a conceptual AI framework designed to automate and optimize engineering design processes. It integrates
 
 - **Input Processing:** NLP + Semantic Parser extracts parameters, constraints, and goals; Units-aware Type System ensures dimensional accuracy.
 - **Design Synthesis:** Intent Mapper and Design Synthesizer generate CAD, KiCad, SOPs, and code.
