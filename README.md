@@ -100,3 +100,10 @@ Dimitar Kretski– Focusing on making advanced AI and optimization accessible, p
 
 "The future of AI is not in bigger clouds, but in smarter, more private edges."
 
+## 📄 License
+
+- **Non-commercial use:** MIT License
+- **Commercial use:** Contact for licensing
+- **Embedding in products:** Requires commercial license
+
+
