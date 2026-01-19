@@ -5,7 +5,7 @@
 # 🔬 FUS-Meta: Offline-First AI & Optimization Framework
 
 **Run complex AI and optimization algorithms directly on edge devices—no cloud, no data leaks, full privacy.**
-## Why Infineon / Huawei Engineers Care
+
 
 - Automatically finds optimal neural architectures for **MCU / FPGA / ASIC constraints**
 - Reduces manual tuning time by **30–70%**
