@@ -10,7 +10,7 @@
 ---
 ---
 **📄 Official Technical Report (CERN Zenodo):**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18343100.svg)](https://doi.org/10.5281/zenodo.18343100)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18343100.svg)](https://zenodo.org/records/18343100?preview=1)  
 *The vision, architecture, and full benchmarks (98% accuracy, 47ms latency) are detailed in a citable technical report.*
 ---
 ---
