@@ -8,9 +8,11 @@
 - Optimizes **power / latency / memory simultaneously**
 - Works fully offline for secure industrial environments
 ---
+---
 **📄 Official Technical Report (CERN Zenodo):**  
-[![DOI]https://zenodo.org/records/18343100?preview=1
-*The vision, architecture, and full benchmarks are detailed in a citable technical report.*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18343100.svg)](https://doi.org/10.5281/zenodo.18343100)  
+*The vision, architecture, and full benchmarks (98% accuracy, 47ms latency) are detailed in a citable technical report.*
+---
 ---
 ---
 
