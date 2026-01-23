@@ -12,7 +12,11 @@
 **📄 Official Technical Report (CERN Zenodo):**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18343100.svg)](https://zenodo.org/records/18343100?preview=1)  
 *The vision, architecture, and full benchmarks (98% accuracy, 47ms latency) are detailed in a citable technical report.*
----
+---## 🏭 **Supported Industrial Hardware**
+✅ **Arduino UNO Q** (QRB2210/STM32U585) - 4GB RAM, dual-core ARM
+• Cortex-A53: Full AutoML on-device training
+• Cortex-M33F: Real-time execution on the factory floor
+• Industrial endurance: -40°C to +85°C
 ---
 ---
 
