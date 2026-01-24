@@ -74,7 +74,73 @@ The principles and quantitative results of the FUS-Meta approach have been forma
 | **[Edge AI Suite](https://github.com/Kretski/Azurol-Self-Adaptive-AI-for-Edge-Devices)** | 🔶 **Research** | Ultra-lightweight, self-adaptive neural networks for microcontrollers and edge devices. |
 | **[GravOpt-MAXCUT](https://github.com/Kretski/GravOpt-MAXCUT)** | 🔶 **Production** | High-performance MAX-CUT heuristic for very large graphs (20k–100k nodes) on CPU. |
 
----
+---AZURO CREATOR: AI that doesn’t just predict — it discovers new laws”
+
+What does a scientist do?
+
+Observes data → formulates a hypothesis → tests it → discovers a law.
+
+
+
+And what do most AIs do today?
+
+Learns a model → predicts → but doesn’t explain why.
+
+
+
+AZURO CREATOR changes that.
+
+
+
+🧠 This is the first system for truly automated scientific discovery that:
+
+
+
+Generates human-understandable formulas (sigmoid, power, resonant, etc.)
+
+Adapts the choice to the task:
+
+→ Diagnostics: detects unexpected patterns (e.g. hidden phase transition)
+
+→ Management: selects the most accurate models
+
+Explains why a given hypothesis was chosen — through metrics for accuracy, novelty, and physical plausibility
+
+Works completely locally — cloud-free, suitable for edge devices (even on a smartphone or ESP32!)
+
+🔧 Applications:
+
+
+
+Early diagnosis of defects in pumps, engines, hydraulic systems
+
+Real-time anomaly detection (aviation, ships, power plants)
+
+Automated science labs
+
+Education: students see how laws are born
+
+💡 Example:
+
+We feed data with a hidden sigmoid transition → AZURO generates 9 hypotheses → selects “General + Sigmoid” → displays:
+
+
+
+✨ “The system has a threshold behavior — probably a valve that opens at p1 ≈ 2.5”
+
+
+
+🌍 The goal: To turn any device into an autonomous scientific agent, capable of discovering, explaining and learning.
+
+
+
+🔗 Interested in a demonstration, collaboration or integration into your system?
+
+👉 Write to me!
+
+
+
+#AI #ScientificDiscovery #AutomatedScience #EdgeAI #IndustrialAI #MachineLearning #Innovation #BulgarianTech #AZURO #DigitalTransformation
 
 ## 🚀 Getting Started
 
